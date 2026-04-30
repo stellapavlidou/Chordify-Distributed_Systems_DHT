@@ -1,0 +1,160 @@
+Query(Hey Jude) -> NOT_FOUND
+Query(Hey Jude) -> NOT_FOUND
+Query(Hey Jude) -> NOT_FOUND
+Query(Respect) -> 1000
+Query(What's Going On) -> NOT_FOUND
+Query(Hey Jude) -> 1001
+Query(Hey Jude) -> 1001
+Query(Hey Jude) -> 1001
+Query(Respect) -> 1000
+Query(Respect) -> 1000
+Query(Hey Jude) -> 1001
+Query(Like a Rolling Stone) -> NOT_FOUND
+Query(Like a Rolling Stone) -> NOT_FOUND
+Query(What's Going On) -> NOT_FOUND
+Query(What's Going On) -> NOT_FOUND
+Query(What's Going On) -> NOT_FOUND
+Query(What's Going On) -> NOT_FOUND
+Query(Hey Jude) -> 1008
+Query(Hey Jude) -> 1008
+Query(Respect) -> 1000
+Query(Hey Jude) -> 1008
+Query(What's Going On) -> 1011
+Query(Hey Jude) -> 1008
+Query(Like a Rolling Stone) -> NOT_FOUND
+Query(Hey Jude) -> 1008
+Query(What's Going On) -> 1011
+Query(Like a Rolling Stone) -> NOT_FOUND
+Query(What's Going On) -> 1011
+Query(Hey Jude) -> 1008
+Query(What's Going On) -> 1011
+Query(Hey Jude) -> 1012
+Query(Hey Jude) -> 1012
+Query(Respect) -> 1000
+Query(Hey Jude) -> 1014
+Query(Hey Jude) -> 1014
+Query(Hey Jude) -> 1014
+Query(Hey Jude) -> 1014
+Query(Like a Rolling Stone) -> 1013
+Query(Respect) -> 1015
+Query(Hey Jude) -> 1017
+Query(Hey Jude) -> 1017
+Query(Respect) -> 1016
+Query(What's Going On) -> 1011
+Query(What's Going On) -> 1011
+Query(What's Going On) -> 1020
+Query(Respect) -> 1016
+Query(Respect) -> 1016
+Query(Respect) -> 1016
+Query(What's Going On) -> 1020
+Query(Hey Jude) -> 1017
+Query(Like a Rolling Stone) -> 1019
+Query(Like a Rolling Stone) -> 1019
+Query(Like a Rolling Stone) -> 1019
+Query(Hey Jude) -> 1021
+Query(Hey Jude) -> 1021
+Query(What's Going On) -> 1020
+Query(Hey Jude) -> 1021
+Query(Hey Jude) -> 1021
+Query(Hey Jude) -> 1021
+Query(Respect) -> 1016
+Query(Like a Rolling Stone) -> 1019
+Query(Hey Jude) -> 1021
+Query(Respect) -> 1022
+Query(Like a Rolling Stone) -> 1019
+Query(Respect) -> 1022
+Query(Hey Jude) -> 1023
+Query(Respect) -> 1022
+Query(What's Going On) -> 1024
+Query(Like a Rolling Stone) -> 1019
+Query(Hey Jude) -> 1023
+Query(Hey Jude) -> 1023
+Query(Hey Jude) -> 1023
+Query(Like a Rolling Stone) -> 1019
+Query(What's Going On) -> 1024
+Query(Hey Jude) -> 1025
+Query(Hey Jude) -> 1025
+Query(Hey Jude) -> 1025
+Query(Hey Jude) -> 1025
+Query(What's Going On) -> 1027
+Query(Respect) -> 1022
+Query(What's Going On) -> 1027
+Query(Like a Rolling Stone) -> 1026
+Query(Respect) -> 1022
+Query(Like a Rolling Stone) -> 1026
+Query(Hey Jude) -> 1025
+Query(What's Going On) -> 1028
+Query(Hey Jude) -> 1025
+Query(Hey Jude) -> 1025
+Query(Hey Jude) -> 1025
+Query(What's Going On) -> 1029
+Query(Like a Rolling Stone) -> 1026
+Query(What's Going On) -> 1029
+Query(Hey Jude) -> 1030
+Query(What's Going On) -> 1029
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Like a Rolling Stone) -> 1033
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Respect) -> 1032
+Query(Hey Jude) -> 1031
+Query(What's Going On) -> 1034
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(What's Going On) -> 1034
+Query(Respect) -> 1032
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Hey Jude) -> 1031
+Query(Like a Rolling Stone) -> 1033
+Query(Like a Rolling Stone) -> 1033
+Query(Like a Rolling Stone) -> 1033
+Query(Hey Jude) -> 1035
+Query(Like a Rolling Stone) -> 1033
+Query(Hey Jude) -> 1035
+Query(Hey Jude) -> 1035
+Query(Hey Jude) -> 1035
+Query(Hey Jude) -> 1035
+Query(What's Going On) -> 1036
+Query(What's Going On) -> 1036
+Query(Hey Jude) -> 1035
+Query(Respect) -> 1032
+Query(Hey Jude) -> 1035
+Query(Respect) -> 1032
+Query(Hey Jude) -> 1035
+Query(Hey Jude) -> 1035
+Query(What's Going On) -> 1036
+Query(Hey Jude) -> 1035
+Query(Like a Rolling Stone) -> 1033
+Query(What's Going On) -> 1036
+Query(Hey Jude) -> 1035
+Query(Respect) -> 1032
+Query(Hey Jude) -> 1038
+Query(Like a Rolling Stone) -> 1037
+Query(Hey Jude) -> 1038
+Query(What's Going On) -> 1036
+Query(Like a Rolling Stone) -> 1037
+Query(Respect) -> 1032
+Query(Hey Jude) -> 1039
+Query(Hey Jude) -> 1039
+Query(Like a Rolling Stone) -> 1037
+Query(Like a Rolling Stone) -> 1037
+Query(Respect) -> 1032
+Query(Respect) -> 1032
+Query(Hey Jude) -> 1039
+Query(What's Going On) -> 1036
+Query(Hey Jude) -> 1039
+Query(Like a Rolling Stone) -> 1037
+Query(Hey Jude) -> 1039
+Query(Respect) -> 1032
+Query(Respect) -> 1032
+Query(Hey Jude) -> 1039
+Query(What's Going On) -> 1036
+Query(Hey Jude) -> 1039

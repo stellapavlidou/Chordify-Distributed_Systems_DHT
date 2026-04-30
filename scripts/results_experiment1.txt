@@ -1,0 +1,6 @@
+K=1, Consistency=chain-replication | Total Insert Time: 4.49s | Write Throughput: 111.39 inserts/sec
+K=3, Consistency=chain-replication | Total Insert Time: 6.27s | Write Throughput: 79.80 inserts/sec
+K=5, Consistency=chain-replication | Total Insert Time: 7.19s | Write Throughput: 69.57 inserts/sec
+K=1, Consistency=eventually | Total Insert Time: 4.35s | Write Throughput: 115.06 inserts/sec
+K=3, Consistency=eventually | Total Insert Time: 6.09s | Write Throughput: 82.13 inserts/sec
+K=5, Consistency=eventually | Total Insert Time: 7.49s | Write Throughput: 66.77 inserts/sec

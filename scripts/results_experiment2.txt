@@ -1,0 +1,6 @@
+K=1, Consistency=chain-replication | Query time: 4.56s, | Read Throughput: 109.75 queries/sec
+K=3, Consistency=chain-replication | Query time: 4.41s, | Read Throughput: 113.38 queries/sec
+K=5, Consistency=chain-replication | Query time: 2.84s, | Read Throughput: 176.33 queries/sec
+K=1, Consistency=eventually | Query time: 4.49s, | Read Throughput: 111.42 queries/sec
+K=3, Consistency=eventually | Query time: 3.70s, | Read Throughput: 135.07 queries/sec
+K=5, Consistency=eventually | Query time: 2.54s, | Read Throughput: 196.59 queries/sec
